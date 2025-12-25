@@ -7,7 +7,7 @@ eq5DubSculptor is a 5-band dub-style equalizer designed for live sound system pe
 
 ## Front Panel
 
-![eq5DubSculptor front panel](facade_cutkiller.jpg)
+![eq5DubSculptor front panel](facade_eq5DubSculptor.jpg)
 
 ---
 

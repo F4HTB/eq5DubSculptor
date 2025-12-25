@@ -32,7 +32,7 @@ eq5DubSculptor is a 5-band dub-style equalizer designed for live sound system pe
 | FC3 (MID / U/MID)  | 600 Hz  | **≈ 1.22 kHz**  | 2.5 kHz |
 | FC4 (U/MID / TOPS) | 2.5 kHz | **≈ 4.47 kHz**  | 8 kHz   |
 
-![Filter smoothing graph](graph_smothing.jpg)
+![Filter smoothing graph](graph_smothing.png)
 
 ---
 
